@@ -2,5 +2,9 @@ name = Tawk.to
 description = integrates the tawk.to chat service widget with your Backdrop site
 type = module
 backdrop = 1.x
+
+maintainers[tawk] = tawk.to
+maintainers[yorkshire-pudding] = Martin Price
+
 package = Chat
 configure = admin/config/tawk
